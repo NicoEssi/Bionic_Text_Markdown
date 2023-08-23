@@ -3,8 +3,6 @@
 
 Convert ordinary string of text into bionic text within markdown. Very easy to use.
 
-Made for personal use at my blog here: [**Stoic Archer**](https://stoicarcher.substack.com/)
-
 # How to use
 1. Either head directly to the [Jupyter Notebook file](https://github.com/NicoEssi/Bionic_Text_Markdown/blob/main/Bionic_Text_Markdown_Converter.ipynb) or press the Google Colab link at the near top of this README file.
 2. Run the cell by pressing the white play button in the upper left corner.
