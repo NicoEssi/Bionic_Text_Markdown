@@ -14,7 +14,7 @@ Convert ordinary string of text into bionic text within markdown. Very easy to u
 
 ---
 
-# Output Example
+# Output example
 
 **M**y **na**me **i**s **Nico**las **Essi**pova. **I**’m **a** **Frenc**h-born **Swed**ish **nati**onal **bo**rn **t**o **Ukrai**nian **a**nd **Russ**ian **pare**nts **wi**th **a** **Kor**ean **girlf**riend **work**ing **f**or **a**n **Amer**ican **comp**any, **whi**le **trave**ling **acr**oss **t**he **wor**ld.
 
