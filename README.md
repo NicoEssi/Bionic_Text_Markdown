@@ -1,16 +1,17 @@
 # Bionic_Text_Markdown
 [![Google Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/NicoEssi/Bionic_Text_Markdown/blob/main/Bionic_Text_Markdown_Converter.ipynb)
 
-Convert ordinary string of text into bionic text within markdown. Very easy to use.
+**Conv**ert **ordi**nary **str**ing **o**f **te**xt **in**to **bio**nic **te**xt **wit**hin **mark**down. **Ve**ry **ea**sy **t**o **u**se.
+
 
 ---
-
 # How to use
-1. Either head directly to the [Jupyter Notebook file](https://github.com/NicoEssi/Bionic_Text_Markdown/blob/main/Bionic_Text_Markdown_Converter.ipynb) or press the Google Colab link at the near top of this README file.
-2. Run the cell by pressing the white play button in the upper left corner.
-3. When prompted, insert your arbitrary string of text.
-4. Copy the output text and use as you wish!
-5. **Optional**: if your editor does not support markdown, double click on the paragraph at the bottom and paste your markdown text. You'll see Colab converting it. Copy that text, and paste it wherever you wish.
+1. **Eit**her **he**ad **dire**ctly **t**o **t**he [**Jupy**ter **Note**book **fi**le](https://github.com/NicoEssi/Bionic_Text_Markdown/blob/main/Bionic_Text_Markdown_Converter.ipynb) **o**r **pre**ss **t**he **Goo**gle **Col**ab **li**nk **a**t **t**he **ne**ar **t**op **o**f **th**is **REA**DME **fi**le.
+2. **R**un **t**he **ce**ll **b**y **pres**sing **t**he **whi**te **pl**ay **but**ton **i**n **t**he **upp**er **le**ft **cor**ner.
+3. **Wh**en **prom**pted, **ins**ert **yo**ur **arbit**rary **str**ing **o**f **te**xt.
+4. **Co**py **t**he **out**put **te**xt **a**nd **u**se **a**s **y**ou **wi**sh!
+5. **Optional**: **i**f **yo**ur **edi**tor **do**es **n**ot **supp**ort **mark**down, **dou**ble **cli**ck **o**n **t**he **parag**raph **a**t **t**he **bot**tom **a**nd **pas**te **yo**ur **mark**down **te**xt. **You**'ll **s**ee **Col**ab **conve**rting **i**t. **Co**py **th**at **te**xt, **a**nd **pas**te **i**t **wher**ever **y**ou **wi**sh.
+ 
 
 ---
 
